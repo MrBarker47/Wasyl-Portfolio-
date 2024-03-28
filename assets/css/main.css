@@ -107,6 +107,15 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+
+
+
+
+
+
+
+
+
 /* Spinner */
 
 	@-moz-keyframes spinner-rotate {
@@ -172,6 +181,21 @@ input, select, textarea {
 			transform: scale(1) rotate(360deg);
 		}
 	}
+
+
+
+
+
+
+/* logo */
+	.logo {
+		width: 100px;
+		height: 64px;
+		margin-top: 2px;
+		margin-left: 20px;
+	}
+
+
 
 /* Loader */
 
