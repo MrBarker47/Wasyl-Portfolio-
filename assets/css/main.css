@@ -184,33 +184,20 @@ input, select, textarea {
 
 
 
-
-
-
-/* logo */
 	.logo {
+		display: flex;
+		justify-content: center;
 		width: 100px;
-		height: 42px;
-		margin-top: 1px;
+		height: 40px;
+		margin-top: 4px;
 		margin-left: 20px;
+
+
+		/* display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%; */
 	}
-/* @media screen and (max-width: 760) {
-	
-}
-
-	@media screen and (max-width: 1920px) {
-		.logo {
-			width: 100px;
-			height: 40px;
-			margin-top: 1px;
-			margin-left: 20px;
-		}
-	}
- */
-
-
-
-
 	/*  Header color */
 	.strong {
 		color: red
