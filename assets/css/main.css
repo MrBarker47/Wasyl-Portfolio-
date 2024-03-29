@@ -184,20 +184,6 @@ input, select, textarea {
 
 
 
-	.logo {
-		display: flex;
-		justify-content: center;
-		width: 100px;
-		height: 40px;
-		margin-top: 4px;
-		margin-left: 20px;
-
-
-		/* display: block;
-		margin-left: auto;
-		margin-right: auto;
-		width: 50%; */
-	}
 	/*  Header color */
 	.strong {
 		color: red
@@ -2120,6 +2106,20 @@ input, select, textarea {
 
 
 
+			.logo {
+				display: flex;
+				justify-content: center;
+				width: 100px;
+				height: 50px;
+				margin-top: 7px;
+				margin-left: 20px;
+		
+		
+				/* display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 50%; */
+			}
 
 
 		}
@@ -2131,6 +2131,20 @@ input, select, textarea {
 			}
 
 
+			.logo {
+				display: flex;
+				justify-content: center;
+				width: 100px;
+				height: 50px;
+				margin-top: 0px;
+				margin-left: 20px;
+		
+		
+				/* display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 50%; */
+			}
 
 
 		}
@@ -2145,6 +2159,20 @@ input, select, textarea {
 
 
 
+			.logo {
+				display: flex;
+				justify-content: center;
+				width: 100px;
+				height: 50px;
+				margin-top: 0px;
+				margin-left: 20px;
+		
+		
+				/* display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 50%; */
+			}
 
 		}
 
@@ -2195,6 +2223,20 @@ input, select, textarea {
 
 		
 
+			.logo {
+				display: flex;
+				justify-content: center;
+				width: 100px;
+				height: 40px;
+				margin-top: 0px;
+				margin-left: 20px;
+		
+		
+				/* display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 50%; */
+			}
 
 
 
@@ -2211,6 +2253,20 @@ input, select, textarea {
 
 
 
+	.logo {
+		display: flex;
+		justify-content: center;
+		width: 100px;
+		height: 40px;
+		margin-top: 0px;
+		margin-left: 20px;
+
+
+		/* display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%; */
+	}
 
 
 
