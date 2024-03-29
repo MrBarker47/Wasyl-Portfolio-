@@ -209,8 +209,8 @@ input, select, textarea {
 	@media screen and (max-width: 1920px) {
 		.logo {
 			width: 100px;
-			height: 30px;
-			margin: 1px 2px -7px 20px;
+			height: 20px;
+			
 		}
 	}
 
