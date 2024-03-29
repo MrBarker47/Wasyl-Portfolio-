@@ -2106,20 +2106,6 @@ input, select, textarea {
 
 
 
-			.logo {
-		
-				width: 70px;
-				/* height: 45px; */
-				margin-top: 7px;
-				margin-left: 20px;
-		
-		
-				/* display: block;
-				margin-left: auto;
-				margin-right: auto;
-				width: 50%; */
-			}
-
 
 		}
 
@@ -2133,15 +2119,10 @@ input, select, textarea {
 			.logo {
 			
 				width: 70px;
-				height: 35px;
+				height: 30px;
 				margin-top: 0px;
 				margin-left: 20px;
-		
-		
-				/* display: block;
-				margin-left: auto;
-				margin-right: auto;
-				width: 50%; */
+
 			}
 
 
@@ -2160,15 +2141,11 @@ input, select, textarea {
 			.logo {
 			
 				width: 70px;
-				/* height: 40px; */
+				height: 40px;
 				margin-top: 0px;
 				margin-left: 20px;
 		
-		
-				/* display: block;
-				margin-left: auto;
-				margin-right: auto;
-				width: 50%; */
+	
 			}
 
 		}
