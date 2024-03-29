@@ -2110,7 +2110,7 @@ input, select, textarea {
 				display: flex;
 				justify-content: center;
 				width: 100px;
-				height: 50px;
+				height: 40px;
 				margin-top: 7px;
 				margin-left: 20px;
 		
@@ -2135,7 +2135,7 @@ input, select, textarea {
 				display: flex;
 				justify-content: center;
 				width: 100px;
-				height: 50px;
+				height: 40px;
 				margin-top: 0px;
 				margin-left: 20px;
 		
@@ -2163,7 +2163,7 @@ input, select, textarea {
 				display: flex;
 				justify-content: center;
 				width: 100px;
-				height: 50px;
+				height: 40px;
 				margin-top: 0px;
 				margin-left: 20px;
 		
