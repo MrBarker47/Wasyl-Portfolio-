@@ -188,32 +188,25 @@ input, select, textarea {
 
 
 /* logo */
-	  /* .logo {
-		width: 270px;
+	.logo {
+		width: 70px;
 		height: 35px;
 		margin-top: 1px;
 		margin-left: 20px;
-	} */
-
-
-/* 	
-@media screen and (max-width: 760) {
-	.logo {
-		width: 200px;
-		height: 34px;
-		margin-top: 2px;
-		margin-left: 20px;
 	}
-}  */
+/* @media screen and (max-width: 760) {
+	
+}
 
 	@media screen and (max-width: 1920px) {
 		.logo {
 			width: 100px;
-			height: 20px;
-			
+			height: 40px;
+			margin-top: 1px;
+			margin-left: 20px;
 		}
 	}
-
+ */
 
 
 
