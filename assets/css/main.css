@@ -1179,6 +1179,85 @@ input, select, textarea {
 
 		}
 
+
+
+
+		/* Logo */
+
+		@media  screen and (max-width: 1920){
+			
+			.logo {
+			
+				width: 70px;
+				height: 40px;
+				margin-top: 0px;
+				margin-left: 20px;
+		
+	
+			}
+		}
+
+
+		@media  screen and (max-width: 1280){
+			
+			.logo {
+			
+				width: 70px;
+				height: 40px;
+				margin-top: 0px;
+				margin-left: 20px;
+		
+	
+			}
+		}
+
+
+		@media  screen and (max-width: 1000){
+			
+			.logo {
+			
+				width: 70px;
+				height: 40px;
+				margin-top: 0px;
+				margin-left: 20px;
+		
+	
+			}
+		}
+
+
+		@media  screen and (max-width: 730px){
+			
+			.logo {
+			
+				width: 70px;
+				height: 40px;
+				margin-top: 0px;
+				margin-left: 20px;
+		
+	
+			}
+		}
+
+
+		@media  screen and (max-width: 480px){
+			
+			.logo {
+			
+				width: 70px;
+				height: 40px;
+				margin-top: 0px;
+				margin-left: 20px;
+		
+	
+			}
+		}
+
+
+
+
+
+
 /* Icons */
 
 	ul.icons {
@@ -2105,14 +2184,7 @@ input, select, textarea {
 			}
 
 
-			.logo {
-			
-				width: 70px;
-				height: 0px;
-				margin-top: 0px;
-				margin-left: 20px;
-
-			}
+	
 
 		}
 
@@ -2123,14 +2195,7 @@ input, select, textarea {
 			}
 
 
-			.logo {
-			
-				width: 70px;
-				height: 0px;
-				margin-top: 0px;
-				margin-left: 20px;
 
-			}
 
 
 		}
@@ -2145,15 +2210,7 @@ input, select, textarea {
 
 
 
-			.logo {
-			
-				width: 70px;
-				height: 40px;
-				margin-top: 0px;
-				margin-left: 20px;
 		
-	
-			}
 
 		}
 
@@ -2204,16 +2261,6 @@ input, select, textarea {
 
 		
 
-			.logo {
-				width: 100px;
-				height: 40px;
-				margin-top: 0px;
-				margin-left: 20px;
-		
-		
-		
-			}
-
 
 
 
@@ -2229,15 +2276,7 @@ input, select, textarea {
 
 
 
-	.logo {
-		width: 100px;
-		height: 40px;
-		margin-top: 0px;
-		margin-left: 20px;
 
-
-	
-	}
 
 
 
