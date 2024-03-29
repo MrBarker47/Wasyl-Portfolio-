@@ -197,6 +197,16 @@ input, select, textarea {
 
 
 
+
+	/*  Header color */
+	.strong {
+		color: red
+	}
+
+	.strong2 {
+		color: green;
+	}
+
 /* Loader */
 
 	@-moz-keyframes spinner-show {
